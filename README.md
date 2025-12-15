@@ -1,6 +1,6 @@
 ## WINESMART   - AGRARIAN Project
 
-## 1. Dataset:
+## 1. Dataset
 - Vineyard imagery (leaves, grapes, foliage)  
 - Meteorological and weather forecast data  
 - Historical climate and soil datasets (2015–2024)
